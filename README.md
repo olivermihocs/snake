@@ -1,2 +1,2 @@
-# snake
-Snake game
+## Snake
+# Snake game written in C# (MVVM architecture)
